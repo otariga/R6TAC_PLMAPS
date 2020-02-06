@@ -518,6 +518,191 @@ body {
   top: 642.8px;
   left: 1620px;
 }
+.L23 {
+  top: 672.8px;
+  left: 1620px;
+}
+.L24 {
+  top: 702.8px;
+  left: 1620px;
+}
+.L25 {
+  top: 732.8px;
+  left: 1620px;
+}
+.L26 {
+  top: 762.8px;
+  left: 1620px;
+}
+.L27 {
+  top: 792.8px;
+  left: 1620px;
+}
+.L28 {
+  top: 822.8px;
+  left: 1620px;
+}
+.L29 {
+  top: 852.8px;
+  left: 1620px;
+}
+.L30 {
+  top: 882.8px;
+  left: 1620px;
+}
+.L31 {
+  top: 912.8px;
+  left: 1620px;
+}
+.L32 {
+  top: 942.8px;
+  left: 1620px;
+}
+.L33 {
+  top: 972.8px;
+  left: 1620px;
+}
+.R1 {
+  top: 12.8px;
+  left: 1758px;
+}
+.R2 {
+  top: 42.8px;
+  left: 1758px;
+}
+.R3 {
+  top: 72.8px;
+  left: 1758px;
+}
+.R4 {
+  top: 102.8px;
+  left: 1758px;
+}
+.R5 {
+  top: 132.8px;
+  left: 1758px;
+}
+.R6 {
+  top: 162.8px;
+  left: 1758px;
+}
+.R7 {
+  top: 192.8px;
+  left: 1758px;
+}
+.R8 {
+  top: 222.8px;
+  left: 1758px;
+}
+.R9 {
+  top: 252.8px;
+  left: 1758px;
+}
+.R10 {
+  top: 282.8px;
+  left: 1758px;
+}
+.R11 {
+  top: 312.8px;
+  left: 1758px;
+}
+.R12 {
+  top: 342.8px;
+  left: 1758px;
+}
+.R13 {
+  top: 372.8px;
+  left: 1758px;
+}
+.R14 {
+  top: 402.8px;
+  left: 1758px;
+}
+.R15 {
+  top: 432.8px;
+  left: 1758px;
+}
+.R16 {
+  top: 462.8px;
+  left: 1758px;
+}
+.R17 {
+  top: 492.8px;
+  left: 1758px;
+}
+.R18 {
+  top: 522.8px;
+  left: 1758px;
+}
+.R19 {
+  top: 552.8px;
+  left: 1758px;
+}
+.R20 {
+  top: 582.8px;
+  left: 1758px;
+}
+.R21 {
+  top: 612.8px;
+  left: 1758px;
+}
+.R22 {
+  top: 642.8px;
+  left: 1758px;
+}
+.R23 {
+  top: 672.8px;
+  left: 1758px;
+}
+.R24 {
+  top: 702.8px;
+  left: 1758px;
+}
+.R25 {
+  top: 732.8px;
+  left: 1758px;
+}
+.R26 {
+  top: 762.8px;
+  left: 1758px;
+}
+.R27 {
+  top: 792.8px;
+  left: 1758px;
+}
+.R28 {
+  top: 822.8px;
+  left: 1758px;
+}
+.R29 {
+  top: 852.8px;
+  left: 1758px;
+}
+.R30 {
+  top: 882.8px;
+  left: 1758px;
+}
+.R31 {
+  top: 912.8px;
+  left: 1758px;
+}
+.R32 {
+  top: 942.8px;
+  left: 1758px;
+}
+.R33 {
+  top: 972.8px;
+  left: 1758px;
+}
+.R34 {
+  top: 1002.8px;
+  left: 1758px;
+}
+.R35 {
+  top: 1032.8px;
+  left: 1758px;
+  margin-bottom: 50px;
+}
 .tab_item:hover {
   opacity: 1;
 }
@@ -553,7 +738,56 @@ input[name="tab_item"] {
 #consulateb1:checked ~ #consulateb1,
 #villa2f:checked ~ #villa2f,
 #villa1f:checked ~ #villa1f,
-#villab1:checked ~ #villab1{
+#villab1:checked ~ #villab1,
+#kanal2f:checked ~ #kanal2f,
+#kanal1f:checked ~ #kanal1f,
+#kanalb1:checked ~ #kanalb1,
+#kanalb2:checked ~ #kanalb2,
+#bartlett2f:checked ~ #bartlett2f,
+#bartlett1f:checked ~ #bartlett1f,
+#chalet2f:checked ~ #chalet2f,
+#chalet1f:checked ~ #chalet1f,
+#chaletb1:checked ~ #chaletb1,
+#favela3f:checked ~ #favela3f,
+#favela2f:checked ~ #favela2f,
+#favela1f:checked ~ #favela1f,
+#fortress2f:checked ~ #fortress2f,
+#fortress1f:checked ~ #fortress1f,
+#hereford3f:checked ~ #hereford3f,
+#hereford2f:checked ~ #hereford2f,
+#hereford1f:checked ~ #hereford1f,
+#herefordb1:checked ~ #herefordb1,
+#house2f:checked ~ #house2f,
+#house1f:checked ~ #house1f,
+#houseb1:checked ~ #houseb1,
+#oregon3f:checked ~ #oregon3f,
+#oregon2f:checked ~ #oregon2f,
+#oregon1f:checked ~ #oregon1f,
+#oregonb1:checked ~ #oregonb1,
+#outback2fa:checked ~ #outback2fa,
+#outback2fb:checked ~ #outback2fb,
+#outback1fa:checked ~ #outback1fa,
+#outback1fb:checked ~ #outback1fb,
+#plane3fa:checked ~ #plane3fa,
+#plane3fb:checked ~ #plane3fb,
+#plane2fa:checked ~ #plane2fa,
+#plane2fb:checked ~ #plane2fb,
+#plane1fa:checked ~ #plane1fa,
+#plane1fb:checked ~ #plane1fb,
+#skyscraper2f:checked ~ #skyscraper2f,
+#skyscraper1f:checked ~ #skyscraper1f,
+#themepark2f:checked ~ #themepark2f,
+#themepark1f:checked ~ #themepark1f,
+#tower2fa:checked ~ #tower2fa,
+#tower2fb:checked ~ #tower2fb,
+#tower1fa:checked ~ #tower1fa,
+#tower1fb:checked ~ #tower1fb,
+#yacht4f:checked ~ #yacht4f,
+#yacht3f:checked ~ #yacht3f,
+#yacht2fa:checked ~ #yacht2fa,
+#yacht2fb:checked ~ #yacht2fb,
+#yacht1fa:checked ~ #yacht1fa,
+#yacht1fb:checked ~ #yacht1fb {
   display: block;
 }
 
