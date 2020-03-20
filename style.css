@@ -535,9 +535,8 @@ input[name="tab_item"] {
 }
 
 /*選択されているタブのコンテンツのみを表示*/
-#bank2f:checked ~ #bank2f,
-#bank1f:checked ~ #bank1f,
-#bankb1:checked ~ #bankb1,
+#themepark2f:checked ~ #themepark2f,
+#themepark1f:checked ~ #themepark1f,
 #border2f:checked ~ #border2f,
 #border1f:checked ~ #border1f,
 #cafe3f:checked ~ #cafe3f,
